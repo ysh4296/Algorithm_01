@@ -6,7 +6,7 @@
 ---------------
 # learning base
 tensorflow 기본설정 및 train image와 test image 불러오기 
-
+[기본 코드](https://github.com/ysh4296/Algorithm_01/blob/main/learning%20base.ipynb)
 ---------------
 # model1
 3계층 레이어 모델의 생성 및 모델을 이용한 머신러닝
