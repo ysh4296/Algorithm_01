@@ -6,6 +6,7 @@
 ---------------
 # learning base
 tensorflow 기본설정 및 train image와 test image 불러오기 
+
 [기본 코드](https://github.com/ysh4296/Algorithm_01/blob/main/learning%20base.ipynb)
 ---------------
 # model1
