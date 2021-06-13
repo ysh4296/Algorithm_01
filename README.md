@@ -4,7 +4,7 @@
 - 모델의 레이어를 직접 설계하여 머신러닝의 기본원리를 익힌다.
 
 ---------------
-# base code
+# learning base
 tensorflow 기본설정 및 train image와 test image 불러오기 
 
 ---------------
