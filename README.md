@@ -5,7 +5,8 @@
 
 ---------------
 # learning base
-tensorflow 기본설정 및 train image와 test image 불러오기 
+tensorflow 기본설정 및 train image와 test image 불러오기
+및 후에 사용되는 결과출력 함수들의 설명
 
 [기본 코드](https://github.com/ysh4296/Algorithm_01/blob/main/learning%20base.ipynb)
 ---------------
