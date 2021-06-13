@@ -13,7 +13,7 @@ tensorflow 기본설정 및 train image와 test image 불러오기
 # model1
 3계층 레이어 모델의 생성 및 모델을 이용한 머신러닝 수행과 그 결과
 
-
+[첫번째 모델](https://github.com/ysh4296/Algorithm_01/blob/main/model1.ipynb)
 ---------------
 # model2
 5계층 레이어 모델의 생성 및 모델을 이용한 머신러닝 수행과 그 결과
