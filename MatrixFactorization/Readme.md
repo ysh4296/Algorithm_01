@@ -18,3 +18,8 @@
   - Matrix factorization을 통한 추천 최적화
   - Latent Factor Collaborate Filtering을 이용한 추천 시스템 알고리즘 구축
   - Django 및 파이썬 + html을 통한 추천 사이트 구축
+
+### 4. 구현
+  - 탈출 성공 가능성 학습
+
+  - 유저 체감 난이도  
