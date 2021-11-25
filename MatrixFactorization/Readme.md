@@ -22,4 +22,4 @@
 ### 4. 구현
   - [**탈출 성공 가능성 학습**](https://github.com/ysh4296/Machine_Running_Tutorials/blob/main/MatrixFactorization/Escape_recommand.ipynb)
 
-  - [**유저 체감 난이도**](https://github.com/ysh4296/Machine_Running_Tutorials/blob/main/MatrixFactorization/difficulty_recommand.ipynb)
+  - [**유저 체감 난이도 **](https://github.com/ysh4296/Machine_Running_Tutorials/blob/main/MatrixFactorization/difficulty_recommand.ipynb)
